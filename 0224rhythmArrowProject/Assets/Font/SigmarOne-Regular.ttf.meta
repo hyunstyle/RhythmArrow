@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 45e30cadf94be7c47b0bfe0cc4bbb696
+timeCreated: 1486463200
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sigmar One
+  fontNames:
+  - Sigmar One
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

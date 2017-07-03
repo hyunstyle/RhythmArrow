@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Audiopeer (4).Plugins", "Audiopeer (4).Plugins.csproj", "{C64AF9C3-728F-1C01-338C-AB58BB0DB2C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Audiopeer (4)", "Audiopeer (4).csproj", "{021CDB97-4017-43F9-CB86-AF41B16C9824}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Audiopeer (4).Editor.Plugins", "Audiopeer (4).Editor.Plugins.csproj", "{6C79B1BB-DAD5-39B9-FF78-E96F7E63D46C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C64AF9C3-728F-1C01-338C-AB58BB0DB2C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C64AF9C3-728F-1C01-338C-AB58BB0DB2C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C64AF9C3-728F-1C01-338C-AB58BB0DB2C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C64AF9C3-728F-1C01-338C-AB58BB0DB2C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{021CDB97-4017-43F9-CB86-AF41B16C9824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{021CDB97-4017-43F9-CB86-AF41B16C9824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{021CDB97-4017-43F9-CB86-AF41B16C9824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{021CDB97-4017-43F9-CB86-AF41B16C9824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C79B1BB-DAD5-39B9-FF78-E96F7E63D46C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C79B1BB-DAD5-39B9-FF78-E96F7E63D46C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C79B1BB-DAD5-39B9-FF78-E96F7E63D46C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C79B1BB-DAD5-39B9-FF78-E96F7E63D46C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
